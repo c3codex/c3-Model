@@ -21,3 +21,26 @@ resources:
 result:
   measure: ...
   evidence: ...
+
+
+Risks / Dependencies
+	•	…
+
+Seal
+
+Upon Result posted, Council marks as complete.
+
+---
+
+## `docs/templates/initiative-canvas.md`
+
+```md
+# Initiative Canvas
+
+**Name**  
+**Why now** (Connect)  
+**Who contributes** (Contribute)  
+**What we create** (Create)  
+**OAR** (link to proposal)  
+**Success signals**  
+**Archive link** (ledger/evidence)

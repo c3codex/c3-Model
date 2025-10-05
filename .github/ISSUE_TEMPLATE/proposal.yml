@@ -1,0 +1,23 @@
+name: Proposal
+description: Propose an initiative using OAR logic
+title: "[Proposal] <short name>"
+labels: ["proposal"]
+body:
+  - type: input
+    id: circle
+    attributes:
+      label: Circle (Connect / Contribute / Create)
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+  - type: textarea
+    id: oar
+    attributes:
+      label: OAR (YAML)
+      description: objective / actions / resources / result
+      render: yaml
+  - type: textarea
+    id: links
+    attributes:
+      label: Links (Snapshot, assets, prior issues)

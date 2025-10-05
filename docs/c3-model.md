@@ -1,7 +1,10 @@
 # ✦ c3 Model — Connect · Contribute · Create ✦
 
-![c3 DAO Circuit Map](docs/c3_circuit_map.PNG)
-
+<p align="center">
+  <img src="./c3_circuit_map.PNG" width="800" alt="c3 Circuit Map — Codex Architecture">
+  <br>
+  <em>✦ The Living Circuit of c3 DAO ✦</em>
+</p>
 c3 is a **governance circuit**: a simple loop that keeps culture, resources,
 and outcomes coherent.
 

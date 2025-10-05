@@ -1,5 +1,7 @@
 # ✦ c3 Model — Connect · Contribute · Create ✦
 
+![c3 DAO Circuit Map](docs/c3_circuit_map.PNG)
+
 c3 is a **governance circuit**: a simple loop that keeps culture, resources,
 and outcomes coherent.
 
